@@ -1,0 +1,8 @@
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+*.webp
+./Curso_estadistica_computacional_python/__pycache__
+./Curso_estadistica_computacional_python/camino_aleatorio/env
