@@ -13,7 +13,7 @@ Datos (entrada) => Datos recogidos junto con algoritmo => Procesamiento => Resul
 #### Aprendizaje supervisado
 Necesita que un humano esté supervisando los datos que entran
 Supervisión => Datos de entrenamiento   => Algoritmo => Procesamiento => Resultado
-Datos de entrada                            ⤴
+Datos de entrada  -------------------------⤴
 
 #### Aprendizaje no supervisado
 Datos de entrada => Interpretación => Algoritmo => Procesamiento => Resultado
